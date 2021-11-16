@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Word Scrumble/Word Scramble.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
