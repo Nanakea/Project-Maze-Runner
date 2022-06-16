@@ -40,7 +40,7 @@ namespace SA
 
             if (agent.remainingDistance <= agent.stoppingDistance * stopDistanceProportion)
             {
-                Stopping(out speed);
+                //Stopping(out speed);
             }
             else if (agent.remainingDistance <= agent.stoppingDistance)
             {

@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Player_1
+  - Player_2
+  - Enemy
+  - UI
+  - DiscoveredPlayer
+  - BeingDiscovered
   - 
   - 
   - 
